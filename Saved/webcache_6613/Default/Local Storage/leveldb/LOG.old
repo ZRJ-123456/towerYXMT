@@ -1,3 +1,6 @@
-2026/04/15-19:26:58.121 5478 Reusing MANIFEST D:\UExiangmu\towerYXMT\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/04/15-19:26:58.127 5478 Recovering log #3
-2026/04/15-19:26:58.129 5478 Reusing old log D:\UExiangmu\towerYXMT\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/04/19-18:38:42.845 19884 Reusing MANIFEST D:\Unreal Projects\towerYXMT\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/19-18:38:42.850 19884 Recovering log #47
+2026/04/19-18:38:42.852 19884 Reusing old log D:\Unreal Projects\towerYXMT\Saved\webcache_6613\Default\Local Storage\leveldb/000047.log 
+2026/04/19-18:41:13.699 19874 Level-0 table #51: started
+2026/04/19-18:41:13.703 19874 Level-0 table #51: 74394 bytes OK
+2026/04/19-18:41:13.704 19874 Delete type=0 #47

@@ -1,3 +1,15 @@
-2026/04/15-19:44:26.396 50e4 Reusing MANIFEST D:\UExiangmu\towerYXMT\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/04/15-19:44:26.403 50e4 Recovering log #3
-2026/04/15-19:44:26.413 50e4 Reusing old log D:\UExiangmu\towerYXMT\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/04/19-18:44:20.586 1be58 Reusing MANIFEST D:\Unreal Projects\towerYXMT\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/19-18:44:20.590 1be58 Recovering log #50
+2026/04/19-18:44:20.591 1be58 Reusing old log D:\Unreal Projects\towerYXMT\Saved\webcache_6613\Default\Local Storage\leveldb/000050.log 
+2026/04/19-19:07:02.849 1be60 Level-0 table #54: started
+2026/04/19-19:07:02.853 1be60 Level-0 table #54: 74780 bytes OK
+2026/04/19-19:07:02.855 1be60 Delete type=0 #50
+2026/04/19-19:07:02.856 1be60 Compacting 4@0 + 1@1 files
+2026/04/19-19:07:02.860 1be60 Generated table #55@0: 10 keys, 25737 bytes
+2026/04/19-19:07:02.860 1be60 Compacted 4@0 + 1@1 files => 25737 bytes
+2026/04/19-19:07:02.861 1be60 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/19-19:07:02.862 1be60 Delete type=2 #43
+2026/04/19-19:07:02.862 1be60 Delete type=2 #45
+2026/04/19-19:07:02.862 1be60 Delete type=2 #48
+2026/04/19-19:07:02.862 1be60 Delete type=2 #51
+2026/04/19-19:07:02.862 1be60 Delete type=2 #54

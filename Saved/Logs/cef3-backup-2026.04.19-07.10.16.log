@@ -1,0 +1,11 @@
+[489252:485060:0419/150627.194:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[489252:485060:0419/150627.440:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[22116:478676:0419/150651.610:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-7B01CE7432D5A08B4A0E0F7AB70981BC will be ignored
+[489252:504840:0419/150654.285:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[489252:485060:0419/150654.898:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[489252:485060:0419/150654.898:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[489252:485060:0419/150654.899:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[489252:485060:0419/150654.899:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[489252:504840:0419/150654.905:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[504912:504908:0419/150911.368:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[489252:485060:0419/151016.240:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
