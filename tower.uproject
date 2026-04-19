@@ -18,6 +18,10 @@
 		{
 			"Name": "DirectoryPlaceholder",
 			"Enabled": true
+		},
+		{
+			"Name": "AIAssistant",
+			"Enabled": true
 		}
 	]
 }
